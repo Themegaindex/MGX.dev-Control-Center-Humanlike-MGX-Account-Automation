@@ -1,0 +1,5 @@
+patchright>=0.3.4
+DrissionPage>=4.1.1.2
+faker>=19.0
+cloudscraper>=1.2.71
+colorama>=0.4.6
