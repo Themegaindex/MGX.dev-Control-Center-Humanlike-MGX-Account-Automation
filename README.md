@@ -94,7 +94,7 @@ Bevor du startest, stelle sicher, dass folgende Anforderungen erfüllt sind:
 ### Schritt 1️⃣: Repository klonen oder entpacken
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Themegaindex/MGX.dev-Control-Center-Humanlike-MGX-Account-Automation
 cd MGX.dev-Control-Center-Humanlike-MGX-Account-Automation
 ```
 
